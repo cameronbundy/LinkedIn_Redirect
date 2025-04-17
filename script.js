@@ -1,1 +1,1 @@
-
+window.location.replace("https://www.linkedin.com/in/cameron-bundy/");
